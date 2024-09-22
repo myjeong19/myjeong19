@@ -1,6 +1,6 @@
-# 안녕하세요 
+# Hello World  :)  !!!
 
-프론트엔드 개발자를 지망하는 정민영입니다.
+- **Maintainer**. [react-notion-custom](https://github.com/meursyphus/react-notion-custom)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
